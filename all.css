@@ -1,0 +1,23 @@
+.ali1{
+    background-color:  rgb(163, 123, 63);
+    text-align: center;
+    
+}
+.ali3{
+    background-color:  rgb(163, 123, 63);
+    text-align: center;
+}
+.ali2{
+    text-align: center;
+font-weight: bold;
+}
+.ali4{
+   
+    font-weight: bold;
+    font-style: italic;
+}
+img{
+    width: 500px;
+    height: 300px;
+    margin: 0px 5px;
+}
